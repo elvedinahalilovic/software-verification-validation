@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 2,
+    "ISBN": "123456",
+    "NazivKnjige": "Zločin i kazna",
+    "DatumObjavljivanja": "1866-01-01T00:00:00",
+    "VrstaKnjige": 3,
+    "Izdavac": {
+      "ID": 2,
+      "NazivIzdavaca": "The Russian Messenger"
+    },
+    "Autori": [
+      {
+        "ID": 2,
+        "ImeAutora": "Fjodor",
+        "PrezimeAutora": "Dostojevski",
+        "DatumRodjenja": "1821-11-11T00:00:00"
+      }
+    ],
+    "Recenzije": [
+      {
+        "ID": 1,
+        "KorisnikID": 1,
+        "KnjigaID": 0,
+        "Korisnik": null,
+        "Knjiga": null,
+        "Ocjena": 5.0,
+        "Komentar": "Fenomenalna knjiga, pravo remek-djelo!"
+      }
+    ]
+  },
+  {
+    "ID": 1,
+    "ISBN": "987654",
+    "NazivKnjige": "Na Drini ćuprija",
+    "DatumObjavljivanja": "1945-11-01T00:00:00",
+    "VrstaKnjige": 3,
+    "Izdavac": {
+      "ID": 1,
+      "NazivIzdavaca": "Prosveta"
+    },
+    "Autori": [
+      {
+        "ID": 1,
+        "ImeAutora": "Ivo",
+        "PrezimeAutora": "Andrić",
+        "DatumRodjenja": "1892-10-09T00:00:00"
+      }
+    ],
+    "Recenzije": [
+      {
+        "ID": 2,
+        "KorisnikID": 2,
+        "KnjigaID": 0,
+        "Korisnik": null,
+        "Knjiga": null,
+        "Ocjena": 4.0,
+        "Komentar": "Lijepo napisano, ali malo teško za čitanje."
+      }
+    ]
+  }
+]

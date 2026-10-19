@@ -1,0 +1,102 @@
+[
+  {
+    "ID": 1,
+    "Ime": "Nejla",
+    "Prezime": "Ženanović",
+    "Username": "nejla123",
+    "Email": "nejla@example.com",
+    "Lozinka": "lozinka123",
+    "DatumRodjenja": "1995-06-15T00:00:00",
+    "DatumPridruzivanja": "2025-11-03T12:00:00",
+    "BrojTelefona": "+38761123456",
+    "Potvrdjen": true,
+    "VrijemeRegistracije": "2025-11-03T12:00:00",
+    "Knjige": [
+      {
+        "ID": 2,
+        "ISBN": "123456",
+        "NazivKnjige": "Zločin i kazna",
+        "DatumObjavljivanja": "1866-01-01T00:00:00",
+        "VrstaKnjige": 3,
+        "Izdavac": {
+          "ID": 2,
+          "NazivIzdavaca": "The Russian Messenger"
+        },
+        "Autori": [
+          {
+            "ID": 2,
+            "ImeAutora": "Fjodor",
+            "PrezimeAutora": "Dostojevski",
+            "DatumRodjenja": "1821-11-11T00:00:00"
+          }
+        ],
+        "Recenzije": [
+          {
+            "ID": 1,
+            "KorisnikID": 1,
+            "KnjigaID": 0,
+            "Ocjena": 5.0,
+            "Komentar": "Fenomenalna knjiga, pravo remek-djelo!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "Ime": "Amir",
+    "Prezime": "Kovačević",
+    "Username": "amir456",
+    "Email": "amir@example.com",
+    "Lozinka": "lozinka456",
+    "DatumRodjenja": "1990-02-20T00:00:00",
+    "DatumPridruzivanja": "2025-11-03T12:10:00",
+    "BrojTelefona": "+38761987654",
+    "Potvrdjen": false,
+    "VrijemeRegistracije": "2025-11-03T12:10:00",
+    "Knjige": [
+      {
+        "ID": 1,
+        "ISBN": "987654",
+        "NazivKnjige": "Na Drini ćuprija",
+        "DatumObjavljivanja": "1945-11-01T00:00:00",
+        "VrstaKnjige": 3,
+        "Izdavac": {
+          "ID": 1,
+          "NazivIzdavaca": "Prosveta"
+        },
+        "Autori": [
+          {
+            "ID": 1,
+            "ImeAutora": "Ivo",
+            "PrezimeAutora": "Andrić",
+            "DatumRodjenja": "1892-10-09T00:00:00"
+          }
+        ],
+        "Recenzije": [
+          {
+            "ID": 2,
+            "KorisnikID": 2,
+            "KnjigaID": 0,
+            "Ocjena": 4.0,
+            "Komentar": "Lijepo napisano, ali malo teže za čitanje."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "Ime": "seila",
+    "Prezime": "seilic",
+    "Username": "seila123",
+    "Email": "seila@gmail.com",
+    "Lozinka": "loz123",
+    "DatumRodjenja": "0001-01-01T00:00:00",
+    "DatumPridruzivanja": "2025-11-19T13:24:56.0268722+01:00",
+    "BrojTelefona": "067777777",
+    "Potvrdjen": true,
+    "VrijemeRegistracije": "2025-11-19T13:24:56.0268825+01:00",
+    "Knjige": []
+  }
+]

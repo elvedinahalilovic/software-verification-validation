@@ -1,0 +1,4 @@
+Email,Lozinka,Expected
+login@test.com,123,true
+login@test.com,pogresno,false
+nepostojeci@test.com,123,false

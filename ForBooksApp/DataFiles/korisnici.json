@@ -1,0 +1,16 @@
+[
+  {
+    "ID": 1,
+    "Ime": "Neko",
+    "Prezime": "Nekić",
+    "Username": "neko123",
+    "Email": "neko@gmail.com",
+    "Lozinka": "lozinka123",
+    "DatumRodjenja": "0001-01-01T00:00:00",
+    "DatumPridruzivanja": "2025-11-19T18:20:36.00743+01:00",
+    "BrojTelefona": "061111111",
+    "Potvrdjen": false,
+    "VrijemeRegistracije": "2025-11-19T18:20:36.007433+01:00",
+    "Knjige": []
+  }
+]

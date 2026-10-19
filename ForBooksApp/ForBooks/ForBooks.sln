@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBooks", "ForBooks.csproj", "{B8B08C5C-0606-49B1-A195-6C938C36D51F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testovi", "..\Testovi\Testovi.csproj", "{CC69EB05-5841-4804-BD8D-E6004FE25B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B08C5C-0606-49B1-A195-6C938C36D51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B08C5C-0606-49B1-A195-6C938C36D51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B08C5C-0606-49B1-A195-6C938C36D51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B08C5C-0606-49B1-A195-6C938C36D51F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC69EB05-5841-4804-BD8D-E6004FE25B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC69EB05-5841-4804-BD8D-E6004FE25B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC69EB05-5841-4804-BD8D-E6004FE25B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC69EB05-5841-4804-BD8D-E6004FE25B98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DAC9D33-9CD1-452A-9A1E-ED36B1DEEB84}
+	EndGlobalSection
+EndGlobal

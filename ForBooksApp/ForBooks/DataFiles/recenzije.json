@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1,
+    "KorisnikID": 1,
+    "KnjigaID": 2,
+    "Ocjena": 5.0,
+    "Komentar": "Fenomenalna knjiga, pravo remek-djelo!"
+  },
+  {
+    "ID": 2,
+    "KorisnikID": 2,
+    "KnjigaID": 1,
+    "Ocjena": 4.0,
+    "Komentar": "Lijepo napisano, ali malo teško za čitanje."
+  },
+  {
+    "ID": 3,
+    "KorisnikID": 2,
+    "KnjigaID": 2,
+    "Ocjena": 4.0,
+    "Komentar": "ok"
+  }
+]

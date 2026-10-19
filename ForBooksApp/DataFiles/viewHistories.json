@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "User": "testKorisnik",
+    "ViewedItem": "Test Knjiga",
+    "ViewedAt": "2025-11-19T17:55:40.361968+01:00"
+  },
+  {
+    "Id": 2,
+    "User": "korisnik1",
+    "ViewedItem": "Knjiga1",
+    "ViewedAt": "2025-11-19T17:55:40.374138+01:00"
+  },
+  {
+    "Id": 3,
+    "User": "korisnik2",
+    "ViewedItem": "Knjiga2",
+    "ViewedAt": "2025-11-19T17:55:40.375564+01:00"
+  },
+  {
+    "Id": 4,
+    "User": "korisnikA",
+    "ViewedItem": "KnjigaA",
+    "ViewedAt": "2025-11-19T17:55:40.383164+01:00"
+  },
+  {
+    "Id": 5,
+    "User": "korisnikB",
+    "ViewedItem": "KnjigaB",
+    "ViewedAt": "2025-11-19T17:55:40.383339+01:00"
+  },
+  {
+    "Id": 6,
+    "User": "testKorisnik",
+    "ViewedItem": "Test Knjiga",
+    "ViewedAt": "2025-11-19T18:07:33.0237+01:00"
+  },
+  {
+    "Id": 7,
+    "User": "korisnik1",
+    "ViewedItem": "Knjiga1",
+    "ViewedAt": "2025-11-19T18:07:33.041107+01:00"
+  },
+  {
+    "Id": 8,
+    "User": "korisnik2",
+    "ViewedItem": "Knjiga2",
+    "ViewedAt": "2025-11-19T18:07:33.04133+01:00"
+  },
+  {
+    "Id": 9,
+    "User": "korisnikA",
+    "ViewedItem": "KnjigaA",
+    "ViewedAt": "2025-11-19T18:07:33.04255+01:00"
+  },
+  {
+    "Id": 10,
+    "User": "korisnikB",
+    "ViewedItem": "KnjigaB",
+    "ViewedAt": "2025-11-19T18:07:33.042689+01:00"
+  },
+  {
+    "Id": 11,
+    "User": "testKorisnik",
+    "ViewedItem": "Test Knjiga",
+    "ViewedAt": "2025-11-19T18:11:44.540734+01:00"
+  },
+  {
+    "Id": 12,
+    "User": "korisnik1",
+    "ViewedItem": "Knjiga1",
+    "ViewedAt": "2025-11-19T18:11:44.565255+01:00"
+  },
+  {
+    "Id": 13,
+    "User": "korisnik2",
+    "ViewedItem": "Knjiga2",
+    "ViewedAt": "2025-11-19T18:11:44.565536+01:00"
+  },
+  {
+    "Id": 14,
+    "User": "korisnikA",
+    "ViewedItem": "KnjigaA",
+    "ViewedAt": "2025-11-19T18:11:44.566909+01:00"
+  },
+  {
+    "Id": 15,
+    "User": "korisnikB",
+    "ViewedItem": "KnjigaB",
+    "ViewedAt": "2025-11-19T18:11:44.567084+01:00"
+  },
+  {
+    "Id": 16,
+    "User": "testKorisnik",
+    "ViewedItem": "Test Knjiga",
+    "ViewedAt": "2025-11-19T18:20:35.893921+01:00"
+  },
+  {
+    "Id": 17,
+    "User": "korisnik1",
+    "ViewedItem": "Knjiga1",
+    "ViewedAt": "2025-11-19T18:20:35.917011+01:00"
+  },
+  {
+    "Id": 18,
+    "User": "korisnik2",
+    "ViewedItem": "Knjiga2",
+    "ViewedAt": "2025-11-19T18:20:35.917336+01:00"
+  },
+  {
+    "Id": 19,
+    "User": "korisnikA",
+    "ViewedItem": "KnjigaA",
+    "ViewedAt": "2025-11-19T18:20:35.918781+01:00"
+  },
+  {
+    "Id": 20,
+    "User": "korisnikB",
+    "ViewedItem": "KnjigaB",
+    "ViewedAt": "2025-11-19T18:20:35.918975+01:00"
+  }
+]
